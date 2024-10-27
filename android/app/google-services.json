@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "318393285203",
+    "project_id": "jaff-ec8ad",
+    "storage_bucket": "jaff-ec8ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318393285203:android:ffe1b01dc34ac007aae4a6",
+        "android_client_info": {
+          "package_name": "com.example.jaff"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwX_ZdTusaS7wvEtUBpqzJ08tFjV5lvOI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
